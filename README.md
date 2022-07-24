@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
-- Live Site URL: [live site URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/timetrackingdashboard-build-using-htmlcss-and-pure-js-l2hgOC_iGe)
+- Live Site URL: [live site URL](https://ram0o7.github.io/time-tracking-dashboard-main/)
 
 
 ## Author
